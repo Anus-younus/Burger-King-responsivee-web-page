@@ -1,2 +1,2 @@
 # Essigment Link
-https://burger-king-essigment.netlify.app/
+https://burger-king-esssigment.netlify.app/
