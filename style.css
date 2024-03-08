@@ -187,7 +187,29 @@ body{
     display: none;
 }
 
+.toggle-container{
+    height: 200vh;
+    width: 100%;
+    background-color: var(---gray);
+    position: absolute;
+    /* z-index: 2000; */
+    padding: 70px 0px 0px 190px;
+    display: none;
+    top: 10vh;
+}
 
+.d-none{
+    display: none;
+}
+.toggle-child{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-bottom: 2px solid var(--light-brown);
+    color: var(--light-brown);
+    font-size: 14px;
+}
 
 
 
